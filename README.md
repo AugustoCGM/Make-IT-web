@@ -1,4 +1,8 @@
 Make it!
+
+![Preview do Make it!](./public/preview_login.png)
+
+
 🗓️O Make it! é uma aplicação moderna de gerenciamento de tarefas desenvolvida para oferecer uma interface limpa, intuitiva e esteticamente agradável. O foco principal deste projeto é a união entre uma lógica de front-end sólida e um design de alta fidelidade.
 
 ✨ Funcionalidades
