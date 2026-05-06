@@ -18,7 +18,7 @@ Styled Components: Estilização baseada em componentes e propriedades dinâmica
 TypeScript: Garantia de tipagem e segurança no desenvolvimento.  
 
 👥 Equipe de DesenvolvimentoEste projeto é fruto de um esforço colaborativo entre:
-Arthur Vinicius
+Arthur Vinícius
 Augusto Cesar
 Carlos Joab
 Elton Silva Sobral
