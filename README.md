@@ -17,7 +17,7 @@ React / Next.js: Estrutura principal da aplicação.
 Styled Components: Estilização baseada em componentes e propriedades dinâmicas.  
 TypeScript: Garantia de tipagem e segurança no desenvolvimento.  
 
-👥 Equipe de DesenvolvimentoEste projeto é fruto de um esforço colaborativo entre:
+👥 Equipe de Desenvolvimento Este projeto é fruto de um esforço colaborativo entre:
 Augusto Cesar
 Arthur Vinícius
 Carlos Joab
